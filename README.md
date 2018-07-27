@@ -1,8 +1,5 @@
 # Citrix Synergy  - Simply Serve
 
-## Luis Montes and Moheeb Zara
-
-![HeatSync Labs](HeatsyncLabs_logo.png)
 [![HeatSync Labs](HeatsyncLabs_logo.png)](https://heatsynclabs.org)
 
 ## Chirpers
