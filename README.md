@@ -1,10 +1,8 @@
 # Nodebots Day 2018
 
-[![HeatSync Labs](HeatsyncLabs_logo.png)](https://heatsynclabs.org)
+[![HeatSync Labs](HeatsyncLabs_logo.png)](https://www.heatsynclabs.org)
 
-## Chirpers
 
-[https://chirpers.com/browser](https://chirpers.com/browser)
 
 ![chirpers](chirpers.jpg)
 
@@ -55,13 +53,12 @@
 
 
 
+## Connecting to the bot with Chirpers
 
-
-## Connecting to the bot
 
 [https://chirpers.com/browser](https://chirpers.com/browser)
 
-Import -> Examples -> syngery esp32 bot
+Import -> Examples -> nodebotsday 2018 nodemcu-32s
 
 Click the Run button and connect to YOUR bot!
 (bot ID on bottom of breadboard)
