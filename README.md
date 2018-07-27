@@ -1,4 +1,4 @@
-# Citrix Synergy  - Simply Serve
+# Nodebots Day 2018
 
 [![HeatSync Labs](HeatsyncLabs_logo.png)](https://heatsynclabs.org)
 
