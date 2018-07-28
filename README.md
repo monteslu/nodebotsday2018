@@ -19,10 +19,6 @@
 
 ![nodemcu 32s](nodemcu_32s.jpg)
 
-![main wiring](main_wiring.jpg)
-
-![pins](pins.jpg)
-
 
 ## Web Bluetooth
 
@@ -47,12 +43,11 @@
 [![Sprout Runt Rover Assembly](https://img.youtube.com/vi/LGfNfUv5Eqs/0.jpg)](https://www.youtube.com/watch?v=LGfNfUv5Eqs)
 
 
-
 ## Wiring
 
-![pins](pins.jpg)
-![driver](driver.jpg)
-![power](power.jpg)
+![main wiring](main_wiring.jpg)
+
+![pin wiring](pin_wiring.jpg)
 
 
 
