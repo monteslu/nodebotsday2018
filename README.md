@@ -9,17 +9,20 @@
 
 ## Our bots for today
 
-![bot](bot.jpg)
-
-* ESP32 - Micrcontroller
+* Sprout Run Rover chassis
+* ESP32 - Micrcontroller (nodemcu-32s)
 * L298N - Motor Driver
 * Motors
-* Chassis
 * Batteries
 * wheels
 * Wires
 
 ![nodemcu 32s](nodemcu_32s.jpg)
+
+![main wiring](main_wiring.jpg)
+
+![pins](pins.jpg)
+
 
 ## Web Bluetooth
 
